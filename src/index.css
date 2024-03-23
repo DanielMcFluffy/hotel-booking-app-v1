@@ -1,0 +1,25 @@
+/* horizontal line in between the or word */
+/* ///////////////////////////////////// */
+.or-text {
+  position: relative;
+}
+
+.or-text::before,
+.or-text::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 40%;
+  height: 1px;
+  background-color: black;
+}
+
+.or-text::before {
+  left: 0;
+}
+
+.or-text::after {
+  right: 0;
+}
+
+/* /////////////////////////////////// */
