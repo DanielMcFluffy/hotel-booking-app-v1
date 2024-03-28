@@ -23,3 +23,12 @@
 }
 
 /* /////////////////////////////////// */
+
+.no-underline {
+  text-decoration: none;
+}
+
+/* removes the dropdown arrow */
+#dropdown-basic-button.dropdown-toggle::after {
+  display: none;
+}

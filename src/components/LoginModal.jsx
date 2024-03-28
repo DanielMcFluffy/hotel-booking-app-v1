@@ -88,7 +88,6 @@ const LoginModal = ({ show, onHide }) => {
             onClick={handleGoogleSignIn}
           ><i className="bi bi-google"></i>  Continue with Google</Button>
 
-          <Button variant='secondary' className="rounded-pill mt-3" style={{ width: '100%', backgroundColor: '#644646' }} ><i className="bi bi-facebook"></i> Continue with Facebook</Button>
 
 
         </Form>

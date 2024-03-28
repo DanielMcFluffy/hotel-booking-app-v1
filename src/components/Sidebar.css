@@ -1,0 +1,8 @@
+ .side-Button {
+   width: 60%;
+ }
+
+ .side-Button:hover {
+   width: 80%;
+   transition: width 0.3s;
+ }
