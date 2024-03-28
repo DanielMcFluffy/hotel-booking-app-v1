@@ -67,11 +67,11 @@ const Bookings = () => {
     dispatch(fetchListing(bookingId));
   }, [dispatch, bookingId])
 
-  console.log(currentUser)
+  // console.log(currentUser)
 
   //uid of the user to sent to the db
-  console.log((currentUser && currentUser.uid) || 'No user logged in')
-  console.log(listings)
+  // console.log((currentUser && currentUser.uid) || 'No user logged in')
+  // console.log(listings)
 
 
   //date picker state management
