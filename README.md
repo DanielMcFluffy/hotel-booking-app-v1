@@ -11,6 +11,7 @@ Key difference here is that I've written my own API endpoints for the React appl
 1. SQL database for accurate querying
 2. Node.js with Express used for web server application
 3. React.js for front-end application
+4. Seamless deployment via Vercel
 
 ~~## Installation~~ 
 
