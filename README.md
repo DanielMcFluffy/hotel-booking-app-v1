@@ -20,6 +20,10 @@ Key difference here is that I've written my own API endpoints for the React appl
 ~~3. Install dependencies: `npm install`~~
 ~~4. Run project: `npm run dev`~~
 
+## Credit
+
+Thank you to Sigma School for providing me the opportunity to career-switch into the tech field. Exercises/Lessons/Examples were provided by them. https://sigmaschool.co/
+
 ## License
 
 MIT License
