@@ -2,7 +2,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 
 
-const BASE_URL = "https://d035733c-64bf-4096-9586-89a1c9c838f3-00-3ch5klv342331.kirk.replit.dev";
+const BASE_URL = "https://4f24453f-cf4a-4bd9-941d-b4af3e514900-00-377j6nvbhy0o3.sisko.replit.dev/";
 
 //async thunk to fetch listing data from db
 export const fetchListings = createAsyncThunk(
